@@ -111,13 +111,7 @@ export const PROJECTS_DATA: Project[] = [
     repoUrl: 'https://github.com/priyanka-kataria/EarlyEra_Ecommerce_website',
     liveUrl: 'https://earlyera.netlify.app/',
   },
-  {
-    title: 'Forecasting Electricity Prices Using LSTM',
-    description: 'A time series forecasting project that predicts future electricity prices using an LSTM-based deep learning model. The workflow includes data cleaning, feature engineering, model training, and performance visualization to capture long-term patterns and trends in electricity price fluctuations.',
-    tags: ['ML', 'Python', 'LSTM', 'Time-Series Analysis'],
-    imageUrl: '/assests/lstm.png',
-    repoUrl: 'https://github.com/priyanka-kataria/Forecasting-Electricity-Prices-Using-LSTM-Based-Time-Series-Analysis-/blob/main/esl372_notebook_2022ES11812_priyanka_kataria.ipynb',
-  },
+ 
     {
     title: 'Inseconds App',
    description: 'InSeconds is a productivity-focused social app that turns short reels into real opportunities. Through our RAAS (Reel-as-a-Service) model, companies share video JDs and job seekers create video resumes, making hiring faster. The app also offers career tips, insights, messaging, and community features — helping users grow and find opportunities in seconds.',
@@ -125,5 +119,11 @@ export const PROJECTS_DATA: Project[] = [
     imageUrl: '/assests/inseconds.png',
  
     liveUrl: 'https://play.google.com/store/apps/details?id=app.inseconds.insecondsapp',
+  }, {
+    title: 'Forecasting Electricity Prices Using LSTM',
+    description: 'A time series forecasting project that predicts future electricity prices using an LSTM-based deep learning model. The workflow includes data cleaning, feature engineering, model training, and performance visualization to capture long-term patterns and trends in electricity price fluctuations.',
+    tags: ['ML', 'Python', 'LSTM', 'Time-Series Analysis'],
+    imageUrl: '/assests/lstm.png',
+    repoUrl: 'https://github.com/priyanka-kataria/Forecasting-Electricity-Prices-Using-LSTM-Based-Time-Series-Analysis-/blob/main/esl372_notebook_2022ES11812_priyanka_kataria.ipynb',
   }
 ];
