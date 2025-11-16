@@ -88,7 +88,7 @@ export const EXPERIENCE_DATA: Experience[] = [
     description: [
       'Designed and assembled 5+ PCBs for EV subsystems.',
       'Enhanced DC-DC design, reducing vehicle weight by 0.7%.',
-      'Contributed to securing 15th place globally at FSG.',
+      'Contributed to securing 15th place globally at Formula Student Germany.',
     ],
   },
 ];
