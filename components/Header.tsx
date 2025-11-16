@@ -33,7 +33,7 @@ const Header: React.FC = () => {
           href="#"
           className="text-4xl font-bold text-white hover:text-purple-400 transition-colors"
         >
-          Priyanka Kataria
+          Portfolio
         </a>
 
         <nav className="hidden md:flex items-center space-x-6">
