@@ -104,12 +104,12 @@ export const PROJECTS_DATA: Project[] = [
     liveUrl: 'https://doctor-app-rh82.vercel.app/',
   },
   {
-    title: 'EarlyEra- A Ecommerce Platform',
-    description: 'A full-stack, real-time chat service built with the MERN stack. Features instant messaging, online status indicators, and robust JWT-based authentication.',
-    tags: ['Vite', 'ReactJS', 'JavaScript', 'CSS' ],
-    imageUrl: '/assests/ecom.png',
-    repoUrl: 'https://github.com/priyanka-kataria/EarlyEra_Ecommerce_website',
-    liveUrl: 'https://earlyera.netlify.app/',
+  title: 'CPU Scheduling Algorithms Visualizer',
+  description: 'A React-based dashboard to simulate preemptive and non-preemptive CPU scheduling algorithms including FCFS, SJF, SRTF, Priority, and Round Robin. Features ready queue and priority queue handling, context switching, Gantt chart visualization, and performance comparison using waiting time, turnaround time, and CPU utilization.',
+  tags: ['ReactJS', 'JavaScript', 'DSA', 'Vite', 'CSS'],
+  imageUrl: '/assests/cpu-scheduling.png',
+  repoUrl: 'https://github.com/priyanka-kataria/CPU_scheduling_visualizer', // change if different
+  liveUrl: 'https://cpu-scheduling-visualizer-vert.vercel.app/', // add if deployed
   },
  
     {
